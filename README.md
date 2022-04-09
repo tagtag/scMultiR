@@ -5,4 +5,4 @@ This is a R source code by which we can perform the analysis described in the fo
 
 Tensor-decomposition–based unsupervised feature extraction in single-cell multiomics data analysis
 Y-h. Taguchi, Turki Turki
-bioRxiv 2021.08.25.457731; doi: https://doi.org/10.1101/2021.08.25.457731
+https://doi.org/10.3390/genes12091442
